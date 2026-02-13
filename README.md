@@ -1,1 +1,3 @@
 # exploreindia
+Indian Explorer is a full-stack tourism exploration web application designed to provide comprehensive travel information about all Indian States and Union Territories in a single digital platform. The system allows users to search and explore famous tourist destinations, transportation facilities, cultural highlights, and regional cuisines in an interactive and user-friendly environment.
+The application integrates a dynamic frontend interface with a Node.js and Express-based backend API that fetches tourism data from a structured JSON database. It acts as a smart travel guide that simplifies destination discovery through intelligent search functionality, including abbreviation recognition and quick-access buttons.
