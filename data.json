@@ -1,0 +1,1881 @@
+{
+  "Andhra Pradesh": {
+    "base_station": "Vijayawada Junction",
+    "places": [
+      {
+        "name": "Amaravati",
+        "distance_km": 15,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 25,
+        "nearest_station": "Vijayawada Junction",
+        "nearest_airport": "Rajiv Gandhi International Airport",
+        "famous_for": "Sri Chandrasekharendra Temple with intricate carvings, ancient Buddhist stupa ruins",
+        "local_food": [
+          "Gongura Chicken",
+          "Puranipoli",
+          "Pesarattu",
+          "Hyderabadi Biryani"
+        ]
+      },
+      {
+        "name": "Tirupati",
+        "distance_km": 420,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 252,
+        "nearest_station": "Vijayawada Junction",
+        "nearest_airport": "Rajiv Gandhi International Airport",
+        "famous_for": "Sri Venkateswara Temple - one of the world's richest temples, Lord Venkateshwara idol",
+        "local_food": [
+          "Tirupati Laddu",
+          "Laddoo",
+          "Curd Rice",
+          "Medu Vada",
+          "South Indian Dosa"
+        ]
+      },
+      {
+        "name": "Visakhapatnam Beach",
+        "distance_km": 350,
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&h=350&fit=crop",
+        "airport_distance": 210,
+        "nearest_station": "Vijayawada Junction",
+        "nearest_airport": "Rajiv Gandhi International Airport",
+        "famous_for": "Beautiful coastline, Submarine Museum, Visakha Museum, Rama Krishna Beach",
+        "local_food": [
+          "Fish Curry",
+          "Andhra Prawn Fry",
+          "Beach Fresh Seafood",
+          "Gongura Rice"
+        ]
+      },
+      {
+        "name": "Araku Valley",
+        "distance_km": 450,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 270,
+        "nearest_station": "Vijayawada Junction",
+        "nearest_airport": "Rajiv Gandhi International Airport",
+        "famous_for": "Coffee plantations, scenic mountain views, waterfalls, tribal markets",
+        "local_food": [
+          "Araku Coffee",
+          "Tribal Bamboo Rice",
+          "Jaggery Sweets",
+          "Local Tribal Cuisine"
+        ]
+      },
+      {
+        "name": "Lepakshi",
+        "distance_km": 390,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 234,
+        "nearest_station": "Vijayawada Junction",
+        "nearest_airport": "Rajiv Gandhi International Airport",
+        "famous_for": "Veerabhadra Temple with 70-foot high spire, intricate sculptures and paintings",
+        "local_food": [
+          "Andhra Pickles",
+          "Gongura Rice",
+          "Groundnut Chikhalwali",
+          "Local Sweets"
+        ]
+      }
+    ],
+    "airport": "Rajiv Gandhi International Airport",
+    "airport_distance": 25
+  },
+  "Arunachal Pradesh": {
+    "base_station": "Naharlagun Railway Station",
+    "places": [
+      {
+        "name": "Tawang Monastery",
+        "distance_km": 430,
+        "image": "https://images.unsplash.com/photo-1606857521220-5585206a0b29?w=500&h=350&fit=crop",
+        "airport_distance": 258,
+        "nearest_station": "Naharlagun Railway Station",
+        "nearest_airport": "Lilabari Airport",
+        "famous_for": "High altitude Buddhist monastery, stunning Himalayan views, spiritual center",
+        "local_food": [
+          "Momos",
+          "Thukpa",
+          "Butter Tea",
+          "Local Yak Cheese",
+          "Tibetan Bread"
+        ]
+      },
+      {
+        "name": "Ziro Valley",
+        "distance_km": 110,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 66,
+        "nearest_station": "Naharlagun Railway Station",
+        "nearest_airport": "Lilabari Airport",
+        "famous_for": "Rice fields, Apatani tribal culture, Ziro Festival of Music",
+        "local_food": [
+          "Bamboo Shoot Curry",
+          "Apatani Rice",
+          "Local Fish",
+          "Apong (Rice Beer)",
+          "Tribal Feast"
+        ]
+      },
+      {
+        "name": "Bomdila",
+        "distance_km": 260,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 156,
+        "nearest_station": "Naharlagun Railway Station",
+        "nearest_airport": "Lilabari Airport",
+        "famous_for": "Gompa monastery, scenic mountain monastery, Buddhist artifacts",
+        "local_food": [
+          "Momos",
+          "Noodle Soup",
+          "Local Vegetables",
+          "Butter Tea",
+          "Cheese"
+        ]
+      },
+      {
+        "name": "Sela Pass",
+        "distance_km": 340,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 204,
+        "nearest_station": "Naharlagun Railway Station",
+        "nearest_airport": "Lilabari Airport",
+        "famous_for": "Highest motorable pass in India, sacred lake, panoramic mountain views",
+        "local_food": [
+          "Tibetan Momos",
+          "Mountain Tea",
+          "Local Herbs",
+          "Yak Meat Curry"
+        ]
+      },
+      {
+        "name": "Namdapha National Park",
+        "distance_km": 550,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 330,
+        "nearest_station": "Naharlagun Railway Station",
+        "nearest_airport": "Lilabari Airport",
+        "famous_for": "Biodiversity hotspot, snow leopards, red pandas, pristine forests",
+        "local_food": [
+          "Forest Herbs",
+          "Local Tribal Food",
+          "Fresh Mountain Vegetables",
+          "Honey"
+        ]
+      }
+    ],
+    "airport": "Lilabari Airport",
+    "airport_distance": 50
+  },
+  "Assam": {
+    "base_station": "Guwahati Railway Station",
+    "places": [
+      {
+        "name": "Kaziranga National Park",
+        "distance_km": 195,
+        "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=500&h=350&fit=crop",
+        "airport_distance": 117,
+        "nearest_station": "Guwahati Railway Station",
+        "nearest_airport": "Indira Gandhi International Airport",
+        "famous_for": "One-horned rhinoceros, Bengal tigers, Asiatic elephants, UNESCO World Heritage",
+        "local_food": [
+          "Assam Tea",
+          "Assamese Fish Curry",
+          "Doi",
+          "Xutuli",
+          "Pitha"
+        ]
+      },
+      {
+        "name": "Kamakhya Temple",
+        "distance_km": 7,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 35,
+        "nearest_station": "Guwahati Railway Station",
+        "nearest_airport": "Indira Gandhi International Airport"
+      },
+      {
+        "name": "Majuli Island",
+        "distance_km": 320,
+        "image": "https://images.unsplash.com/photo-1508109491510-ef56ebc468d5?w=500&h=350&fit=crop",
+        "airport_distance": 192,
+        "nearest_station": "Guwahati Railway Station",
+        "nearest_airport": "Indira Gandhi International Airport",
+        "famous_for": "World's largest river island, Vaishnavite satras, mask dances",
+        "local_food": [
+          "Assamese Rice",
+          "Fish Curry",
+          "Bamboo Shoots",
+          "Local Sweets"
+        ]
+      },
+      {
+        "name": "Manas National Park",
+        "distance_km": 140,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 84,
+        "nearest_station": "Guwahati Railway Station",
+        "nearest_airport": "Indira Gandhi International Airport"
+      },
+      {
+        "name": "Sivasagar",
+        "distance_km": 360,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 216,
+        "nearest_station": "Guwahati Railway Station",
+        "nearest_airport": "Indira Gandhi International Airport"
+      }
+    ],
+    "airport": "Indira Gandhi International Airport",
+    "airport_distance": 35
+  },
+  "Bihar": {
+    "base_station": "Patna Junction",
+    "places": [
+      {
+        "name": "Bodh Gaya",
+        "distance_km": 110,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 66,
+        "nearest_station": "Patna Junction",
+        "nearest_airport": "Loknayak Jayaprakash Airport",
+        "famous_for": "Mahabodhi Temple, Buddhist pilgrimage site, enlightenment of Buddha",
+        "local_food": [
+          "Litti Chokha",
+          "Chana Ghugni",
+          "Khichdi",
+          "Bihari Thali"
+        ]
+      },
+      {
+        "name": "Nalanda",
+        "distance_km": 95,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 57,
+        "nearest_station": "Patna Junction",
+        "nearest_airport": "Loknayak Jayaprakash Airport"
+      },
+      {
+        "name": "Rajgir",
+        "distance_km": 100,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 60,
+        "nearest_station": "Patna Junction",
+        "nearest_airport": "Loknayak Jayaprakash Airport",
+        "famous_for": "Vulture's Peak, hot springs, Buddhist monasteries, cable car",
+        "local_food": [
+          "Local Sweets",
+          "Rice Pudding",
+          "Bihari Sweets",
+          "Tea"
+        ]
+      },
+      {
+        "name": "Vaishali",
+        "distance_km": 55,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 33,
+        "nearest_station": "Patna Junction",
+        "nearest_airport": "Loknayak Jayaprakash Airport",
+        "famous_for": "Lion capital pillar, ancient republic capital, Buddhist heritage",
+        "local_food": [
+          "Sattu Paratha",
+          "Chikhalwali",
+          "Local Rice",
+          "Bihari Cuisine"
+        ]
+      },
+      {
+        "name": "Patna Sahib",
+        "distance_km": 6,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 8,
+        "nearest_station": "Patna Junction",
+        "nearest_airport": "Loknayak Jayaprakash Airport"
+      }
+    ],
+    "airport": "Loknayak Jayaprakash Airport",
+    "airport_distance": 8
+  },
+  "Chhattisgarh": {
+    "base_station": "Raipur Junction",
+    "places": [
+      {
+        "name": "Chitrakote Falls",
+        "distance_km": 300,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 180,
+        "nearest_station": "Raipur Junction",
+        "nearest_airport": "Naya Raipur Airport"
+      },
+      {
+        "name": "Tirathgarh Falls",
+        "distance_km": 280,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 168,
+        "nearest_station": "Raipur Junction",
+        "nearest_airport": "Naya Raipur Airport"
+      },
+      {
+        "name": "Barnawapara Wildlife Sanctuary",
+        "distance_km": 100,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 60,
+        "nearest_station": "Raipur Junction",
+        "nearest_airport": "Naya Raipur Airport"
+      },
+      {
+        "name": "Sirpur",
+        "distance_km": 85,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 51,
+        "nearest_station": "Raipur Junction",
+        "nearest_airport": "Naya Raipur Airport"
+      },
+      {
+        "name": "Bastar",
+        "distance_km": 285,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 171,
+        "nearest_station": "Raipur Junction",
+        "nearest_airport": "Naya Raipur Airport"
+      }
+    ],
+    "airport": "Naya Raipur Airport",
+    "airport_distance": 28
+  },
+  "Goa": {
+    "base_station": "Madgaon Junction",
+    "places": [
+      {
+        "name": "Baga Beach",
+        "distance_km": 45,
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&h=350&fit=crop",
+        "airport_distance": 27,
+        "nearest_station": "Madgaon Junction",
+        "nearest_airport": "Dabolim Airport",
+        "famous_for": "Golden sand beach, water sports, beach shacks, vibrant nightlife",
+        "local_food": [
+          "Goan Fish Curry",
+          "Prawn Fry",
+          "Pork Vindaloo",
+          "Coconut Rice"
+        ]
+      },
+      {
+        "name": "Calangute Beach",
+        "distance_km": 42,
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&h=350&fit=crop",
+        "airport_distance": 25,
+        "nearest_station": "Madgaon Junction",
+        "nearest_airport": "Dabolim Airport"
+      },
+      {
+        "name": "Dudhsagar Falls",
+        "distance_km": 60,
+        "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=500&h=350&fit=crop",
+        "airport_distance": 36,
+        "nearest_station": "Madgaon Junction",
+        "nearest_airport": "Dabolim Airport"
+      },
+      {
+        "name": "Anjuna Beach",
+        "distance_km": 50,
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&h=350&fit=crop",
+        "airport_distance": 30,
+        "nearest_station": "Madgaon Junction",
+        "nearest_airport": "Dabolim Airport"
+      },
+      {
+        "name": "Basilica of Bom Jesus",
+        "distance_km": 35,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 21,
+        "nearest_station": "Madgaon Junction",
+        "nearest_airport": "Dabolim Airport"
+      }
+    ],
+    "airport": "Dabolim Airport",
+    "airport_distance": 15
+  },
+  "Gujarat": {
+    "base_station": "Gandhinagar Capital",
+    "places": [
+      {
+        "name": "Statue of Unity",
+        "distance_km": 95,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 57,
+        "nearest_station": "Gandhinagar Capital",
+        "nearest_airport": "Sardar Vallabhbhai Patel International Airport",
+        "famous_for": "Tallest statue in the world, Sardar Vallabhbhai Patel memorial",
+        "local_food": [
+          "Dhokla",
+          "Fafda Jalebi",
+          "Khichdi",
+          "Gujarati Thali"
+        ]
+      },
+      {
+        "name": "Gir National Park",
+        "distance_km": 340,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 204,
+        "nearest_station": "Gandhinagar Capital",
+        "nearest_airport": "Sardar Vallabhbhai Patel International Airport",
+        "famous_for": "Asiatic lions, wildlife sanctuary, natural reserve",
+        "local_food": [
+          "Local Rice",
+          "Vegetable Curry",
+          "Gur Chikhalwali",
+          "Local Sweets"
+        ]
+      },
+      {
+        "name": "Somnath Temple",
+        "distance_km": 410,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 246,
+        "nearest_station": "Gandhinagar Capital",
+        "nearest_airport": "Sardar Vallabhbhai Patel International Airport"
+      },
+      {
+        "name": "Dwarka",
+        "distance_km": 450,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 270,
+        "nearest_station": "Gandhinagar Capital",
+        "nearest_airport": "Sardar Vallabhbhai Patel International Airport"
+      },
+      {
+        "name": "Rann of Kutch",
+        "distance_km": 300,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 180,
+        "nearest_station": "Gandhinagar Capital",
+        "nearest_airport": "Sardar Vallabhbhai Patel International Airport",
+        "famous_for": "White salt desert, Rann Utsav festival, muddy formations",
+        "local_food": [
+          "Bajra Rotli",
+          "Kutchi Biryani",
+          "Local Spices",
+          "Gur"
+        ]
+      }
+    ],
+    "airport": "Sardar Vallabhbhai Patel International Airport",
+    "airport_distance": 12
+  },
+  "Haryana": {
+    "base_station": "Chandigarh Junction",
+    "places": [
+      {
+        "name": "Kurukshetra",
+        "distance_km": 90,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 54,
+        "nearest_station": "Chandigarh Junction",
+        "nearest_airport": "Indira Gandhi International Airport"
+      },
+      {
+        "name": "Sultanpur Bird Sanctuary",
+        "distance_km": 250,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 150,
+        "nearest_station": "Chandigarh Junction",
+        "nearest_airport": "Indira Gandhi International Airport",
+        "famous_for": "Bird watching, migratory birds, wetland ecosystem",
+        "local_food": [
+          "Tea",
+          "Local Snacks",
+          "Rice",
+          "Vegetables"
+        ]
+      },
+      {
+        "name": "Pinjore Gardens",
+        "distance_km": 22,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 22,
+        "nearest_station": "Chandigarh Junction",
+        "nearest_airport": "Indira Gandhi International Airport"
+      },
+      {
+        "name": "Morni Hills",
+        "distance_km": 45,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 27,
+        "nearest_station": "Chandigarh Junction",
+        "nearest_airport": "Indira Gandhi International Airport",
+        "famous_for": "Scenic hill station, paragliding, adventure sports",
+        "local_food": [
+          "Local Vegetables",
+          "Rice",
+          "Haryanvi Cuisine",
+          "Sweets"
+        ]
+      },
+      {
+        "name": "Surajkund",
+        "distance_km": 280,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 168,
+        "nearest_station": "Chandigarh Junction",
+        "nearest_airport": "Indira Gandhi International Airport"
+      }
+    ],
+    "airport": "Indira Gandhi International Airport",
+    "airport_distance": 22
+  },
+  "Himachal Pradesh": {
+    "base_station": "Shimla Railway Station",
+    "places": [
+      {
+        "name": "Mall Road Shimla",
+        "distance_km": 2,
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=350&fit=crop",
+        "airport_distance": 18,
+        "nearest_station": "Shimla Railway Station",
+        "nearest_airport": "Shimla Airport"
+      },
+      {
+        "name": "Manali",
+        "distance_km": 250,
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=350&fit=crop",
+        "airport_distance": 150,
+        "nearest_station": "Shimla Railway Station",
+        "nearest_airport": "Shimla Airport",
+        "famous_for": "Hadimba Temple, Manu Temple, Bhrigu Lake, adventure capital",
+        "local_food": [
+          "Momos",
+          "Trout Fish",
+          "Himachali Food",
+          "Local Herbs"
+        ]
+      },
+      {
+        "name": "Dharamshala",
+        "distance_km": 235,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 141,
+        "nearest_station": "Shimla Railway Station",
+        "nearest_airport": "Shimla Airport"
+      },
+      {
+        "name": "Dalhousie",
+        "distance_km": 320,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 192,
+        "nearest_station": "Shimla Railway Station",
+        "nearest_airport": "Shimla Airport",
+        "famous_for": "Khajjiar Lake, British colonial town, pine forests",
+        "local_food": [
+          "Tea",
+          "Momos",
+          "Local Vegetables",
+          "Sweets"
+        ]
+      },
+      {
+        "name": "Spiti Valley",
+        "distance_km": 410,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 246,
+        "nearest_station": "Shimla Railway Station",
+        "nearest_airport": "Shimla Airport"
+      }
+    ],
+    "airport": "Shimla Airport",
+    "airport_distance": 18
+  },
+  "Jharkhand": {
+    "base_station": "Ranchi Junction",
+    "places": [
+      {
+        "name": "Hundru Falls",
+        "distance_km": 45,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 27,
+        "nearest_station": "Ranchi Junction",
+        "nearest_airport": "Birsa Munda Airport"
+      },
+      {
+        "name": "Dassam Falls",
+        "distance_km": 40,
+        "image": "https://images.unsplash.com/photo-1470114716159-e389f8712fda?w=500&h=350&fit=crop",
+        "airport_distance": 24,
+        "nearest_station": "Ranchi Junction",
+        "nearest_airport": "Birsa Munda Airport"
+      },
+      {
+        "name": "Netarhat",
+        "distance_km": 150,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 90,
+        "nearest_station": "Ranchi Junction",
+        "nearest_airport": "Birsa Munda Airport"
+      },
+      {
+        "name": "Betla National Park",
+        "distance_km": 170,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 102,
+        "nearest_station": "Ranchi Junction",
+        "nearest_airport": "Birsa Munda Airport"
+      },
+      {
+        "name": "Birsa Zoological Park",
+        "distance_km": 16,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 10,
+        "nearest_station": "Ranchi Junction",
+        "nearest_airport": "Birsa Munda Airport"
+      }
+    ],
+    "airport": "Birsa Munda Airport",
+    "airport_distance": 10
+  },
+  "Karnataka": {
+    "base_station": "KSR Bengaluru",
+    "places": [
+      {
+        "name": "Mysore Palace",
+        "distance_km": 145,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 87,
+        "nearest_station": "KSR Bengaluru",
+        "nearest_airport": "Kempegowda International Airport"
+      },
+      {
+        "name": "Coorg",
+        "distance_km": 265,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 159,
+        "nearest_station": "KSR Bengaluru",
+        "nearest_airport": "Kempegowda International Airport",
+        "famous_for": "Coffee plantations, Abbey Falls, scenic hills",
+        "local_food": [
+          "Coorg Coffee",
+          "Kodava Cuisine",
+          "Fish Curry",
+          "Rice"
+        ]
+      },
+      {
+        "name": "Hampi",
+        "distance_km": 340,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 204,
+        "nearest_station": "KSR Bengaluru",
+        "nearest_airport": "Kempegowda International Airport",
+        "famous_for": "UNESCO World Heritage site, Virupaksha Temple, ancient ruins",
+        "local_food": [
+          "Rice",
+          "Sambar",
+          "Local Sweets",
+          "Pulao"
+        ]
+      },
+      {
+        "name": "Chikmagalur",
+        "distance_km": 245,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 147,
+        "nearest_station": "KSR Bengaluru",
+        "nearest_airport": "Kempegowda International Airport"
+      },
+      {
+        "name": "Gokarna",
+        "distance_km": 485,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 291,
+        "nearest_station": "KSR Bengaluru",
+        "nearest_airport": "Kempegowda International Airport"
+      }
+    ],
+    "airport": "Kempegowda International Airport",
+    "airport_distance": 30
+  },
+  "Kerala": {
+    "base_station": "Thiruvananthapuram Central",
+    "places": [
+      {
+        "name": "Kovalam Beach",
+        "distance_km": 16,
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&h=350&fit=crop",
+        "airport_distance": 25,
+        "nearest_station": "Thiruvananthapuram Central",
+        "nearest_airport": "Cochin International Airport"
+      },
+      {
+        "name": "Varkala Beach",
+        "distance_km": 45,
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&h=350&fit=crop",
+        "airport_distance": 27,
+        "nearest_station": "Thiruvananthapuram Central",
+        "nearest_airport": "Cochin International Airport"
+      },
+      {
+        "name": "Munnar",
+        "distance_km": 280,
+        "image": "https://images.unsplash.com/photo-1587474260584-136574528ee0?w=500&h=350&fit=crop",
+        "airport_distance": 168,
+        "nearest_station": "Thiruvananthapuram Central",
+        "nearest_airport": "Cochin International Airport",
+        "famous_for": "Tea plantations, Anamudi Peak, Mattupetty Lake",
+        "local_food": [
+          "Kerala Curry",
+          "Puttu",
+          "Tea",
+          "Local Vegetables"
+        ]
+      },
+      {
+        "name": "Alappuzha Backwaters",
+        "distance_km": 155,
+        "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=500&h=350&fit=crop",
+        "airport_distance": 93,
+        "nearest_station": "Thiruvananthapuram Central",
+        "nearest_airport": "Cochin International Airport"
+      },
+      {
+        "name": "Wayanad",
+        "distance_km": 460,
+        "image": "https://images.unsplash.com/photo-1587474260584-136574528ee0?w=500&h=350&fit=crop",
+        "airport_distance": 276,
+        "nearest_station": "Thiruvananthapuram Central",
+        "nearest_airport": "Cochin International Airport"
+      }
+    ],
+    "airport": "Cochin International Airport",
+    "airport_distance": 25
+  },
+  "Madhya Pradesh": {
+    "base_station": "Bhopal Junction",
+    "places": [
+      {
+        "name": "Sanchi Stupa",
+        "distance_km": 46,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 28,
+        "nearest_station": "Bhopal Junction",
+        "nearest_airport": "Raja Bhoj Airport"
+      },
+      {
+        "name": "Khajuraho",
+        "distance_km": 380,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 228,
+        "nearest_station": "Bhopal Junction",
+        "nearest_airport": "Raja Bhoj Airport"
+      },
+      {
+        "name": "Kanha National Park",
+        "distance_km": 480,
+        "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=500&h=350&fit=crop",
+        "airport_distance": 288,
+        "nearest_station": "Bhopal Junction",
+        "nearest_airport": "Raja Bhoj Airport"
+      },
+      {
+        "name": "Ujjain",
+        "distance_km": 190,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 114,
+        "nearest_station": "Bhopal Junction",
+        "nearest_airport": "Raja Bhoj Airport"
+      },
+      {
+        "name": "Pachmarhi",
+        "distance_km": 210,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 126,
+        "nearest_station": "Bhopal Junction",
+        "nearest_airport": "Raja Bhoj Airport"
+      }
+    ],
+    "airport": "Raja Bhoj Airport",
+    "airport_distance": 14
+  },
+  "Maharashtra": {
+    "base_station": "Mumbai CST",
+    "places": [
+      {
+        "name": "Gateway of India",
+        "distance_km": 2,
+        "image": "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=500&h=350&fit=crop",
+        "airport_distance": 18,
+        "nearest_station": "Mumbai CST",
+        "nearest_airport": "Chhatrapati Shivaji Maharaj International Airport"
+      },
+      {
+        "name": "Lonavala",
+        "distance_km": 83,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 50,
+        "nearest_station": "Mumbai CST",
+        "nearest_airport": "Chhatrapati Shivaji Maharaj International Airport"
+      },
+      {
+        "name": "Ajanta Caves",
+        "distance_km": 330,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 198,
+        "nearest_station": "Mumbai CST",
+        "nearest_airport": "Chhatrapati Shivaji Maharaj International Airport"
+      },
+      {
+        "name": "Ellora Caves",
+        "distance_km": 345,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 207,
+        "nearest_station": "Mumbai CST",
+        "nearest_airport": "Chhatrapati Shivaji Maharaj International Airport"
+      },
+      {
+        "name": "Mahabaleshwar",
+        "distance_km": 260,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 156,
+        "nearest_station": "Mumbai CST",
+        "nearest_airport": "Chhatrapati Shivaji Maharaj International Airport"
+      }
+    ],
+    "airport": "Chhatrapati Shivaji Maharaj International Airport",
+    "airport_distance": 18
+  },
+  "Manipur": {
+    "base_station": "Imphal Railway Station",
+    "places": [
+      {
+        "name": "Loktak Lake",
+        "distance_km": 40,
+        "image": "https://images.unsplash.com/photo-1605662503506-dc2a4d69d23f?w=500&h=350&fit=crop",
+        "airport_distance": 24,
+        "nearest_station": "Imphal Railway Station",
+        "nearest_airport": "Imphal International Airport"
+      },
+      {
+        "name": "Kangla Fort",
+        "distance_km": 3,
+        "image": "https://images.unsplash.com/photo-1447746519188-ce70e7b7f59d?w=500&h=350&fit=crop",
+        "airport_distance": 8,
+        "nearest_station": "Imphal Railway Station",
+        "nearest_airport": "Imphal International Airport"
+      },
+      {
+        "name": "Ukhrul",
+        "distance_km": 85,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 51,
+        "nearest_station": "Imphal Railway Station",
+        "nearest_airport": "Imphal International Airport"
+      },
+      {
+        "name": "Moreh",
+        "distance_km": 110,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 66,
+        "nearest_station": "Imphal Railway Station",
+        "nearest_airport": "Imphal International Airport"
+      },
+      {
+        "name": "Shirui Hills",
+        "distance_km": 95,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 57,
+        "nearest_station": "Imphal Railway Station",
+        "nearest_airport": "Imphal International Airport"
+      }
+    ],
+    "airport": "Imphal International Airport",
+    "airport_distance": 8
+  },
+  "Meghalaya": {
+    "base_station": "Guwahati Railway Station",
+    "places": [
+      {
+        "name": "Shillong Peak",
+        "distance_km": 100,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 60,
+        "nearest_station": "Guwahati Railway Station",
+        "nearest_airport": "Shillong Airport"
+      },
+      {
+        "name": "Cherrapunji",
+        "distance_km": 150,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 90,
+        "nearest_station": "Guwahati Railway Station",
+        "nearest_airport": "Shillong Airport"
+      },
+      {
+        "name": "Mawsynram",
+        "distance_km": 160,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 96,
+        "nearest_station": "Guwahati Railway Station",
+        "nearest_airport": "Shillong Airport"
+      },
+      {
+        "name": "Dawki River",
+        "distance_km": 180,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 108,
+        "nearest_station": "Guwahati Railway Station",
+        "nearest_airport": "Shillong Airport"
+      },
+      {
+        "name": "Umiam Lake",
+        "distance_km": 90,
+        "image": "https://images.unsplash.com/photo-1605662503506-dc2a4d69d23f?w=500&h=350&fit=crop",
+        "airport_distance": 54,
+        "nearest_station": "Guwahati Railway Station",
+        "nearest_airport": "Shillong Airport"
+      }
+    ],
+    "airport": "Shillong Airport",
+    "airport_distance": 12
+  },
+  "Mizoram": {
+    "base_station": "Bairabi Railway Station",
+    "places": [
+      {
+        "name": "Reiek Hills",
+        "distance_km": 30,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 32,
+        "nearest_station": "Bairabi Railway Station",
+        "nearest_airport": "Lengpui Airport"
+      },
+      {
+        "name": "Vantawng Falls",
+        "distance_km": 140,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 84,
+        "nearest_station": "Bairabi Railway Station",
+        "nearest_airport": "Lengpui Airport"
+      },
+      {
+        "name": "Tam Dil Lake",
+        "distance_km": 110,
+        "image": "https://images.unsplash.com/photo-1605662503506-dc2a4d69d23f?w=500&h=350&fit=crop",
+        "airport_distance": 66,
+        "nearest_station": "Bairabi Railway Station",
+        "nearest_airport": "Lengpui Airport"
+      },
+      {
+        "name": "Phawngpui Peak",
+        "distance_km": 300,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 180,
+        "nearest_station": "Bairabi Railway Station",
+        "nearest_airport": "Lengpui Airport"
+      },
+      {
+        "name": "Aizawl City",
+        "distance_km": 15,
+        "image": "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=500&h=350&fit=crop",
+        "airport_distance": 32,
+        "nearest_station": "Bairabi Railway Station",
+        "nearest_airport": "Lengpui Airport"
+      }
+    ],
+    "airport": "Lengpui Airport",
+    "airport_distance": 32
+  },
+  "Nagaland": {
+    "base_station": "Dimapur Railway Station",
+    "places": [
+      {
+        "name": "Kohima War Cemetery",
+        "distance_km": 75,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 45,
+        "nearest_station": "Dimapur Railway Station",
+        "nearest_airport": "Dimapur Airport"
+      },
+      {
+        "name": "Dzukou Valley",
+        "distance_km": 95,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 57,
+        "nearest_station": "Dimapur Railway Station",
+        "nearest_airport": "Dimapur Airport"
+      },
+      {
+        "name": "Mon Village",
+        "distance_km": 250,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 150,
+        "nearest_station": "Dimapur Railway Station",
+        "nearest_airport": "Dimapur Airport"
+      },
+      {
+        "name": "Khonoma Village",
+        "distance_km": 90,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 54,
+        "nearest_station": "Dimapur Railway Station",
+        "nearest_airport": "Dimapur Airport"
+      },
+      {
+        "name": "Wokha",
+        "distance_km": 160,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 96,
+        "nearest_station": "Dimapur Railway Station",
+        "nearest_airport": "Dimapur Airport"
+      }
+    ],
+    "airport": "Dimapur Airport",
+    "airport_distance": 10
+  },
+  "Odisha": {
+    "base_station": "Bhubaneswar Railway Station",
+    "places": [
+      {
+        "name": "Jagannath Temple Puri",
+        "distance_km": 60,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 36,
+        "nearest_station": "Bhubaneswar Railway Station",
+        "nearest_airport": "Biju Patnaik International Airport"
+      },
+      {
+        "name": "Konark Sun Temple",
+        "distance_km": 65,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 39,
+        "nearest_station": "Bhubaneswar Railway Station",
+        "nearest_airport": "Biju Patnaik International Airport"
+      },
+      {
+        "name": "Chilika Lake",
+        "distance_km": 100,
+        "image": "https://images.unsplash.com/photo-1605662503506-dc2a4d69d23f?w=500&h=350&fit=crop",
+        "airport_distance": 60,
+        "nearest_station": "Bhubaneswar Railway Station",
+        "nearest_airport": "Biju Patnaik International Airport"
+      },
+      {
+        "name": "Udayagiri Caves",
+        "distance_km": 8,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 16,
+        "nearest_station": "Bhubaneswar Railway Station",
+        "nearest_airport": "Biju Patnaik International Airport"
+      },
+      {
+        "name": "Dhauli Shanti Stupa",
+        "distance_km": 12,
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=350&fit=crop",
+        "airport_distance": 16,
+        "nearest_station": "Bhubaneswar Railway Station",
+        "nearest_airport": "Biju Patnaik International Airport"
+      }
+    ],
+    "airport": "Biju Patnaik International Airport",
+    "airport_distance": 16
+  },
+  "Punjab": {
+    "base_station": "Chandigarh Junction",
+    "places": [
+      {
+        "name": "Golden Temple",
+        "distance_km": 230,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 138,
+        "nearest_station": "Chandigarh Junction",
+        "nearest_airport": "Sri Guru Ramdas Ji International Airport"
+      },
+      {
+        "name": "Jallianwala Bagh",
+        "distance_km": 230,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 138,
+        "nearest_station": "Chandigarh Junction",
+        "nearest_airport": "Sri Guru Ramdas Ji International Airport"
+      },
+      {
+        "name": "Wagah Border",
+        "distance_km": 260,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 156,
+        "nearest_station": "Chandigarh Junction",
+        "nearest_airport": "Sri Guru Ramdas Ji International Airport"
+      },
+      {
+        "name": "Anandpur Sahib",
+        "distance_km": 95,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 57,
+        "nearest_station": "Chandigarh Junction",
+        "nearest_airport": "Sri Guru Ramdas Ji International Airport"
+      },
+      {
+        "name": "Patiala Palace",
+        "distance_km": 70,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 42,
+        "nearest_station": "Chandigarh Junction",
+        "nearest_airport": "Sri Guru Ramdas Ji International Airport"
+      }
+    ],
+    "airport": "Sri Guru Ramdas Ji International Airport",
+    "airport_distance": 20
+  },
+  "Rajasthan": {
+    "base_station": "Jaipur Junction",
+    "places": [
+      {
+        "name": "Amber Fort",
+        "distance_km": 11,
+        "image": "https://images.unsplash.com/photo-1447746519188-ce70e7b7f59d?w=500&h=350&fit=crop",
+        "airport_distance": 8,
+        "nearest_station": "Jaipur Junction",
+        "nearest_airport": "Jaipur International Airport"
+      },
+      {
+        "name": "Hawa Mahal",
+        "distance_km": 4,
+        "image": "https://images.unsplash.com/photo-1447746519188-ce70e7b7f59d?w=500&h=350&fit=crop",
+        "airport_distance": 8,
+        "nearest_station": "Jaipur Junction",
+        "nearest_airport": "Jaipur International Airport"
+      },
+      {
+        "name": "Jaisalmer Fort",
+        "distance_km": 560,
+        "image": "https://images.unsplash.com/photo-1447746519188-ce70e7b7f59d?w=500&h=350&fit=crop",
+        "airport_distance": 336,
+        "nearest_station": "Jaipur Junction",
+        "nearest_airport": "Jaipur International Airport"
+      },
+      {
+        "name": "Udaipur City Palace",
+        "distance_km": 395,
+        "image": "https://images.unsplash.com/photo-1447746519188-ce70e7b7f59d?w=500&h=350&fit=crop",
+        "airport_distance": 237,
+        "nearest_station": "Jaipur Junction",
+        "nearest_airport": "Jaipur International Airport"
+      },
+      {
+        "name": "Pushkar",
+        "distance_km": 150,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 90,
+        "nearest_station": "Jaipur Junction",
+        "nearest_airport": "Jaipur International Airport"
+      }
+    ],
+    "airport": "Jaipur International Airport",
+    "airport_distance": 8
+  },
+  "Sikkim": {
+    "base_station": "New Jalpaiguri",
+    "places": [
+      {
+        "name": "Gangtok",
+        "distance_km": 120,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 120,
+        "nearest_station": "New Jalpaiguri",
+        "nearest_airport": "Bagdogra Airport"
+      },
+      {
+        "name": "Nathula Pass",
+        "distance_km": 175,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 120,
+        "nearest_station": "New Jalpaiguri",
+        "nearest_airport": "Bagdogra Airport"
+      },
+      {
+        "name": "Tsomgo Lake",
+        "distance_km": 155,
+        "image": "https://images.unsplash.com/photo-1605662503506-dc2a4d69d23f?w=500&h=350&fit=crop",
+        "airport_distance": 120,
+        "nearest_station": "New Jalpaiguri",
+        "nearest_airport": "Bagdogra Airport"
+      },
+      {
+        "name": "Pelling",
+        "distance_km": 135,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 120,
+        "nearest_station": "New Jalpaiguri",
+        "nearest_airport": "Bagdogra Airport"
+      },
+      {
+        "name": "Yumthang Valley",
+        "distance_km": 260,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 156,
+        "nearest_station": "New Jalpaiguri",
+        "nearest_airport": "Bagdogra Airport"
+      }
+    ],
+    "airport": "Bagdogra Airport",
+    "airport_distance": 120
+  },
+  "Tamil Nadu": {
+    "base_station": "Chennai Central",
+    "places": [
+      {
+        "name": "Marina Beach",
+        "distance_km": 5,
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&h=350&fit=crop",
+        "airport_distance": 12,
+        "nearest_station": "Chennai Central",
+        "nearest_airport": "Chennai International Airport"
+      },
+      {
+        "name": "Mahabalipuram",
+        "distance_km": 60,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 36,
+        "nearest_station": "Chennai Central",
+        "nearest_airport": "Chennai International Airport"
+      },
+      {
+        "name": "Ooty",
+        "distance_km": 560,
+        "image": "https://images.unsplash.com/photo-1587474260584-136574528ee0?w=500&h=350&fit=crop",
+        "airport_distance": 336,
+        "nearest_station": "Chennai Central",
+        "nearest_airport": "Chennai International Airport"
+      },
+      {
+        "name": "Rameswaram",
+        "distance_km": 560,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 336,
+        "nearest_station": "Chennai Central",
+        "nearest_airport": "Chennai International Airport"
+      },
+      {
+        "name": "Madurai Meenakshi Temple",
+        "distance_km": 460,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 276,
+        "nearest_station": "Chennai Central",
+        "nearest_airport": "Chennai International Airport"
+      }
+    ],
+    "airport": "Chennai International Airport",
+    "airport_distance": 12
+  },
+  "Telangana": {
+    "base_station": "Secunderabad Junction",
+    "places": [
+      {
+        "name": "Charminar",
+        "distance_km": 8,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 28,
+        "nearest_station": "Secunderabad Junction",
+        "nearest_airport": "Rajiv Gandhi International Airport"
+      },
+      {
+        "name": "Golconda Fort",
+        "distance_km": 11,
+        "image": "https://images.unsplash.com/photo-1447746519188-ce70e7b7f59d?w=500&h=350&fit=crop",
+        "airport_distance": 28,
+        "nearest_station": "Secunderabad Junction",
+        "nearest_airport": "Rajiv Gandhi International Airport"
+      },
+      {
+        "name": "Ramoji Film City",
+        "distance_km": 30,
+        "image": "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=500&h=350&fit=crop",
+        "airport_distance": 28,
+        "nearest_station": "Secunderabad Junction",
+        "nearest_airport": "Rajiv Gandhi International Airport"
+      },
+      {
+        "name": "Hussain Sagar",
+        "distance_km": 5,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 28,
+        "nearest_station": "Secunderabad Junction",
+        "nearest_airport": "Rajiv Gandhi International Airport"
+      },
+      {
+        "name": "Warangal Fort",
+        "distance_km": 145,
+        "image": "https://images.unsplash.com/photo-1447746519188-ce70e7b7f59d?w=500&h=350&fit=crop",
+        "airport_distance": 87,
+        "nearest_station": "Secunderabad Junction",
+        "nearest_airport": "Rajiv Gandhi International Airport"
+      }
+    ],
+    "airport": "Rajiv Gandhi International Airport",
+    "airport_distance": 28
+  },
+  "Tripura": {
+    "base_station": "Agartala Railway Station",
+    "places": [
+      {
+        "name": "Ujjayanta Palace",
+        "distance_km": 3,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 12,
+        "nearest_station": "Agartala Railway Station",
+        "nearest_airport": "Agartala Airport"
+      },
+      {
+        "name": "Neermahal Palace",
+        "distance_km": 55,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 33,
+        "nearest_station": "Agartala Railway Station",
+        "nearest_airport": "Agartala Airport"
+      },
+      {
+        "name": "Sepahijala Sanctuary",
+        "distance_km": 25,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 15,
+        "nearest_station": "Agartala Railway Station",
+        "nearest_airport": "Agartala Airport"
+      },
+      {
+        "name": "Unakoti",
+        "distance_km": 180,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 108,
+        "nearest_station": "Agartala Railway Station",
+        "nearest_airport": "Agartala Airport"
+      },
+      {
+        "name": "Jampui Hills",
+        "distance_km": 200,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 120,
+        "nearest_station": "Agartala Railway Station",
+        "nearest_airport": "Agartala Airport"
+      }
+    ],
+    "airport": "Agartala Airport",
+    "airport_distance": 12
+  },
+  "Uttar Pradesh": {
+    "base_station": "Lucknow Junction",
+    "places": [
+      {
+        "name": "Taj Mahal",
+        "distance_km": 335,
+        "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=500&h=350&fit=crop",
+        "airport_distance": 201,
+        "nearest_station": "Lucknow Junction",
+        "nearest_airport": "Indira Gandhi International Airport"
+      },
+      {
+        "name": "Varanasi Ghats",
+        "distance_km": 320,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 192,
+        "nearest_station": "Lucknow Junction",
+        "nearest_airport": "Indira Gandhi International Airport"
+      },
+      {
+        "name": "Ayodhya",
+        "distance_km": 135,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 81,
+        "nearest_station": "Lucknow Junction",
+        "nearest_airport": "Indira Gandhi International Airport"
+      },
+      {
+        "name": "Mathura",
+        "distance_km": 360,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 216,
+        "nearest_station": "Lucknow Junction",
+        "nearest_airport": "Indira Gandhi International Airport"
+      },
+      {
+        "name": "Prayagraj Sangam",
+        "distance_km": 200,
+        "image": "https://images.unsplash.com/photo-1548013146-72479768bada?w=500&h=350&fit=crop",
+        "airport_distance": 120,
+        "nearest_station": "Lucknow Junction",
+        "nearest_airport": "Indira Gandhi International Airport"
+      }
+    ],
+    "airport": "Indira Gandhi International Airport",
+    "airport_distance": 45
+  },
+  "Uttarakhand": {
+    "base_station": "Dehradun Railway Station",
+    "places": [
+      {
+        "name": "Mussoorie",
+        "distance_km": 35,
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=350&fit=crop",
+        "airport_distance": 21,
+        "nearest_station": "Dehradun Railway Station",
+        "nearest_airport": "Jolly Grant Airport"
+      },
+      {
+        "name": "Rishikesh",
+        "distance_km": 45,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 27,
+        "nearest_station": "Dehradun Railway Station",
+        "nearest_airport": "Jolly Grant Airport"
+      },
+      {
+        "name": "Haridwar",
+        "distance_km": 55,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 33,
+        "nearest_station": "Dehradun Railway Station",
+        "nearest_airport": "Jolly Grant Airport"
+      },
+      {
+        "name": "Nainital",
+        "distance_km": 280,
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=350&fit=crop",
+        "airport_distance": 168,
+        "nearest_station": "Dehradun Railway Station",
+        "nearest_airport": "Jolly Grant Airport"
+      },
+      {
+        "name": "Auli",
+        "distance_km": 290,
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=350&fit=crop",
+        "airport_distance": 174,
+        "nearest_station": "Dehradun Railway Station",
+        "nearest_airport": "Jolly Grant Airport"
+      }
+    ],
+    "airport": "Jolly Grant Airport",
+    "airport_distance": 20
+  },
+  "West Bengal": {
+    "base_station": "Howrah Junction",
+    "places": [
+      {
+        "name": "Victoria Memorial",
+        "distance_km": 5,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 15,
+        "nearest_station": "Howrah Junction",
+        "nearest_airport": "Netaji Subhas Chandra Bose International Airport"
+      },
+      {
+        "name": "Darjeeling",
+        "distance_km": 560,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 336,
+        "nearest_station": "Howrah Junction",
+        "nearest_airport": "Netaji Subhas Chandra Bose International Airport"
+      },
+      {
+        "name": "Sundarbans",
+        "distance_km": 110,
+        "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=500&h=350&fit=crop",
+        "airport_distance": 66,
+        "nearest_station": "Howrah Junction",
+        "nearest_airport": "Netaji Subhas Chandra Bose International Airport"
+      },
+      {
+        "name": "Kalimpong",
+        "distance_km": 600,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 360,
+        "nearest_station": "Howrah Junction",
+        "nearest_airport": "Netaji Subhas Chandra Bose International Airport"
+      },
+      {
+        "name": "Digha Beach",
+        "distance_km": 185,
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&h=350&fit=crop",
+        "airport_distance": 111,
+        "nearest_station": "Howrah Junction",
+        "nearest_airport": "Netaji Subhas Chandra Bose International Airport"
+      }
+    ],
+    "airport": "Netaji Subhas Chandra Bose International Airport",
+    "airport_distance": 15
+  },
+  "Lakshadweep": {
+    "base_station": "Agatti Airport",
+    "places": [
+      {
+        "name": "Bangaram Atoll",
+        "distance_km": 10,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 6,
+        "nearest_station": "Agatti Airport",
+        "nearest_airport": "Agatti Airport"
+      },
+      {
+        "name": "Kavaratti",
+        "distance_km": 1,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 2,
+        "nearest_station": "Agatti Airport",
+        "nearest_airport": "Agatti Airport"
+      },
+      {
+        "name": "Minicoy Island",
+        "distance_km": 40,
+        "image": "https://images.unsplash.com/photo-1508109491510-ef56ebc468d5?w=500&h=350&fit=crop",
+        "airport_distance": 24,
+        "nearest_station": "Agatti Airport",
+        "nearest_airport": "Agatti Airport"
+      },
+      {
+        "name": "Agatti Beach",
+        "distance_km": 2,
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&h=350&fit=crop",
+        "airport_distance": 2,
+        "nearest_station": "Agatti Airport",
+        "nearest_airport": "Agatti Airport"
+      },
+      {
+        "name": "Kalpeni Island",
+        "distance_km": 20,
+        "image": "https://images.unsplash.com/photo-1508109491510-ef56ebc468d5?w=500&h=350&fit=crop",
+        "airport_distance": 12,
+        "nearest_station": "Agatti Airport",
+        "nearest_airport": "Agatti Airport"
+      }
+    ],
+    "airport": "Agatti Airport",
+    "airport_distance": 2
+  },
+  "Andaman and Nicobar Islands": {
+    "base_station": "Port Blair Airport",
+    "places": [
+      {
+        "name": "Radhanagar Beach",
+        "distance_km": 70,
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&h=350&fit=crop",
+        "airport_distance": 42,
+        "nearest_station": "Port Blair Airport",
+        "nearest_airport": "Veer Savarkar International Airport"
+      },
+      {
+        "name": "Cellular Jail",
+        "distance_km": 2,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 8,
+        "nearest_station": "Port Blair Airport",
+        "nearest_airport": "Veer Savarkar International Airport"
+      },
+      {
+        "name": "Havelock Island",
+        "distance_km": 40,
+        "image": "https://images.unsplash.com/photo-1508109491510-ef56ebc468d5?w=500&h=350&fit=crop",
+        "airport_distance": 24,
+        "nearest_station": "Port Blair Airport",
+        "nearest_airport": "Veer Savarkar International Airport"
+      },
+      {
+        "name": "Ross Island",
+        "distance_km": 3,
+        "image": "https://images.unsplash.com/photo-1508109491510-ef56ebc468d5?w=500&h=350&fit=crop",
+        "airport_distance": 8,
+        "nearest_station": "Port Blair Airport",
+        "nearest_airport": "Veer Savarkar International Airport"
+      },
+      {
+        "name": "Chidiya Tapu",
+        "distance_km": 25,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 15,
+        "nearest_station": "Port Blair Airport",
+        "nearest_airport": "Veer Savarkar International Airport"
+      }
+    ],
+    "airport": "Veer Savarkar International Airport",
+    "airport_distance": 8
+  },
+  "Chandigarh": {
+    "base_station": "Chandigarh Junction",
+    "places": [
+      {
+        "name": "Rock Garden",
+        "distance_km": 6,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 15,
+        "nearest_station": "Chandigarh Junction",
+        "nearest_airport": "Chandigarh International Airport"
+      },
+      {
+        "name": "Sukhna Lake",
+        "distance_km": 5,
+        "image": "https://images.unsplash.com/photo-1605662503506-dc2a4d69d23f?w=500&h=350&fit=crop",
+        "airport_distance": 15,
+        "nearest_station": "Chandigarh Junction",
+        "nearest_airport": "Chandigarh International Airport"
+      },
+      {
+        "name": "Rose Garden",
+        "distance_km": 4,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 15,
+        "nearest_station": "Chandigarh Junction",
+        "nearest_airport": "Chandigarh International Airport"
+      },
+      {
+        "name": "Sector 17 Market",
+        "distance_km": 2,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 15,
+        "nearest_station": "Chandigarh Junction",
+        "nearest_airport": "Chandigarh International Airport"
+      },
+      {
+        "name": "Pinjore Garden",
+        "distance_km": 20,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 15,
+        "nearest_station": "Chandigarh Junction",
+        "nearest_airport": "Chandigarh International Airport"
+      }
+    ],
+    "airport": "Chandigarh International Airport",
+    "airport_distance": 15
+  },
+  "Dadra and Nagar Haveli and Daman and Diu": {
+    "base_station": "Vapi Railway Station",
+    "places": [
+      {
+        "name": "Diu Fort",
+        "distance_km": 10,
+        "image": "https://images.unsplash.com/photo-1447746519188-ce70e7b7f59d?w=500&h=350&fit=crop",
+        "airport_distance": 18,
+        "nearest_station": "Vapi Railway Station",
+        "nearest_airport": "Daman Airport"
+      },
+      {
+        "name": "Jampore Beach",
+        "distance_km": 5,
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&h=350&fit=crop",
+        "airport_distance": 18,
+        "nearest_station": "Vapi Railway Station",
+        "nearest_airport": "Daman Airport"
+      },
+      {
+        "name": "Nani Daman Fort",
+        "distance_km": 3,
+        "image": "https://images.unsplash.com/photo-1447746519188-ce70e7b7f59d?w=500&h=350&fit=crop",
+        "airport_distance": 18,
+        "nearest_station": "Vapi Railway Station",
+        "nearest_airport": "Daman Airport"
+      },
+      {
+        "name": "Silvassa Deer Park",
+        "distance_km": 15,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 18,
+        "nearest_station": "Vapi Railway Station",
+        "nearest_airport": "Daman Airport"
+      },
+      {
+        "name": "Somnath Temple",
+        "distance_km": 8,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 18,
+        "nearest_station": "Vapi Railway Station",
+        "nearest_airport": "Daman Airport"
+      }
+    ],
+    "airport": "Daman Airport",
+    "airport_distance": 18
+  },
+  "Delhi": {
+    "base_station": "New Delhi Railway Station",
+    "places": [
+      {
+        "name": "India Gate",
+        "distance_km": 5,
+        "image": "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=500&h=350&fit=crop",
+        "airport_distance": 12,
+        "nearest_station": "New Delhi Railway Station",
+        "nearest_airport": "Indira Gandhi International Airport"
+      },
+      {
+        "name": "Lotus Temple",
+        "distance_km": 15,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 12,
+        "nearest_station": "New Delhi Railway Station",
+        "nearest_airport": "Indira Gandhi International Airport"
+      },
+      {
+        "name": "Qutub Minar",
+        "distance_km": 15,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 12,
+        "nearest_station": "New Delhi Railway Station",
+        "nearest_airport": "Indira Gandhi International Airport"
+      },
+      {
+        "name": "Red Fort",
+        "distance_km": 4,
+        "image": "https://images.unsplash.com/photo-1447746519188-ce70e7b7f59d?w=500&h=350&fit=crop",
+        "airport_distance": 12,
+        "nearest_station": "New Delhi Railway Station",
+        "nearest_airport": "Indira Gandhi International Airport"
+      },
+      {
+        "name": "Humayun Tomb",
+        "distance_km": 8,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 12,
+        "nearest_station": "New Delhi Railway Station",
+        "nearest_airport": "Indira Gandhi International Airport"
+      }
+    ],
+    "airport": "Indira Gandhi International Airport",
+    "airport_distance": 12
+  },
+  "Jammu and Kashmir": {
+    "base_station": "Srinagar",
+    "places": [
+      {
+        "name": "Dal Lake",
+        "distance_km": 10,
+        "image": "https://images.unsplash.com/photo-1605662503506-dc2a4d69d23f?w=500&h=350&fit=crop",
+        "airport_distance": 14,
+        "nearest_station": "Srinagar",
+        "nearest_airport": "Sheikh ul-Alam International Airport"
+      },
+      {
+        "name": "Gulmarg",
+        "distance_km": 50,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 30,
+        "nearest_station": "Srinagar",
+        "nearest_airport": "Sheikh ul-Alam International Airport"
+      },
+      {
+        "name": "Pahalgam Valley",
+        "distance_km": 90,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 54,
+        "nearest_station": "Srinagar",
+        "nearest_airport": "Sheikh ul-Alam International Airport"
+      },
+      {
+        "name": "Sonamarg",
+        "distance_km": 80,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 48,
+        "nearest_station": "Srinagar",
+        "nearest_airport": "Sheikh ul-Alam International Airport"
+      },
+      {
+        "name": "Vaishno Devi",
+        "distance_km": 45,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 27,
+        "nearest_station": "Srinagar",
+        "nearest_airport": "Sheikh ul-Alam International Airport"
+      }
+    ],
+    "airport": "Sheikh ul-Alam International Airport",
+    "airport_distance": 14
+  },
+  "Ladakh": {
+    "base_station": "Leh Airport",
+    "places": [
+      {
+        "name": "Pangong Lake",
+        "distance_km": 160,
+        "image": "https://images.unsplash.com/photo-1605662503506-dc2a4d69d23f?w=500&h=350&fit=crop",
+        "airport_distance": 96,
+        "nearest_station": "Leh Kushok Bakula Rimpochee Airport",
+        "nearest_airport": "Leh Kushok Bakula Rimpochee Airport"
+      },
+      {
+        "name": "Nubra Valley",
+        "distance_km": 150,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 90,
+        "nearest_station": "Leh Kushok Bakula Rimpochee Airport",
+        "nearest_airport": "Leh Kushok Bakula Rimpochee Airport"
+      },
+      {
+        "name": "Shanti Stupa",
+        "distance_km": 5,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 7,
+        "nearest_station": "Leh Kushok Bakula Rimpochee Airport",
+        "nearest_airport": "Leh Kushok Bakula Rimpochee Airport"
+      },
+      {
+        "name": "Leh Palace",
+        "distance_km": 3,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 7,
+        "nearest_station": "Leh Kushok Bakula Rimpochee Airport",
+        "nearest_airport": "Leh Kushok Bakula Rimpochee Airport"
+      },
+      {
+        "name": "Magnetic Hill",
+        "distance_km": 30,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 18,
+        "nearest_station": "Leh Kushok Bakula Rimpochee Airport",
+        "nearest_airport": "Leh Kushok Bakula Rimpochee Airport"
+      }
+    ],
+    "airport": "Leh Kushok Bakula Rimpochee Airport",
+    "airport_distance": 7
+  },
+  "Puducherry": {
+    "base_station": "Puducherry Station",
+    "places": [
+      {
+        "name": "Promenade Beach",
+        "distance_km": 2,
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&h=350&fit=crop",
+        "airport_distance": 10,
+        "nearest_station": "Puducherry Station",
+        "nearest_airport": "Puducherry Airport"
+      },
+      {
+        "name": "Auroville",
+        "distance_km": 12,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 10,
+        "nearest_station": "Puducherry Station",
+        "nearest_airport": "Puducherry Airport"
+      },
+      {
+        "name": "French Quarter",
+        "distance_km": 3,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 10,
+        "nearest_station": "Puducherry Station",
+        "nearest_airport": "Puducherry Airport"
+      },
+      {
+        "name": "Paradise Beach",
+        "distance_km": 8,
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&h=350&fit=crop",
+        "airport_distance": 10,
+        "nearest_station": "Puducherry Station",
+        "nearest_airport": "Puducherry Airport"
+      },
+      {
+        "name": "Ashram",
+        "distance_km": 2,
+        "image": "https://images.unsplash.com/photo-1599661046289-e31897846ca7?w=500&h=350&fit=crop",
+        "airport_distance": 10,
+        "nearest_station": "Puducherry Station",
+        "nearest_airport": "Puducherry Airport"
+      }
+    ],
+    "airport": "Puducherry Airport",
+    "airport_distance": 10
+  }
+}

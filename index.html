@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>India Tourism Explorer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="nav-container">
+      <div class="nav-logo">🇮🇳 India Tourism Explorer</div>
+      <ul class="nav-menu">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#explore">Explore</a></li>
+        <li><a href="#about">About</a></li>
+      </ul>
+    </div>
+  </nav>
+  <div class="hero">
+    <div class="hero-content">
+      <h1 class="hero-title">Discover India's Hidden Gems</h1>
+      <p class="hero-subtitle">Explore 28 States & 8 Union Territories with Complete Travel Information</p>
+      <div class="hero-search">
+        <input type="text" id="stateInput" placeholder="🔍 Enter state name, city or abbreviation..." class="hero-input">
+        <button onclick="getTourism()" class="hero-btn">Explore Now</button>
+      </div>
+      <div class="quick-search">
+        <span>Quick Search:</span>
+        <button class="quick-btn" onclick="quickSearch('delhi')">Delhi</button>
+        <button class="quick-btn" onclick="quickSearch('goa')">Goa</button>
+        <button class="quick-btn" onclick="quickSearch('kerala')">Kerala</button>
+        <button class="quick-btn" onclick="quickSearch('maharashtra')">Maharashtra</button>
+      </div>
+    </div>
+  </div>
+  <div class="stats-section">
+    <div class="stat-card">
+      <div class="stat-number">36</div>
+      <div class="stat-label">States & UTs</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">180+</div>
+      <div class="stat-label">Tourist Places</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">1000+</div>
+      <div class="stat-label">Foods to Try</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">100%</div>
+      <div class="stat-label">Coverage</div>
+    </div>
+  </div>
+  <div class="container" id="explore">
+    <div id="result"></div>
+  </div>
+  <footer class="footer">
+    <div class="footer-content">
+      <p>&copy; 2026 India Tourism Explorer. Discover the beauty of India 🌍</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
